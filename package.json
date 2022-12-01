@@ -1,0 +1,24 @@
+{
+  "name": "create-server",
+  "version": "1.0.0",
+  "description": "Complete node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag-10-git/nodejs-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurag-10-git/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/anurag-10-git/nodejs-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
